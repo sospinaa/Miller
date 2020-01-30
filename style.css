@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(50,50,50);
+}
+
+li{
+    color: rgb(188, 101, 255);
+}
+
+h1{
+  color: rgb(255,255,255);
+}
+
+h2{
+  color: rgb(255,255,255);
+}
+
+h3{
+  color: rgb(255,255,255);
+}
+h4{
+  color: rgb(255,255,255);
+}
+
+p{
+  color: rgb(200,200,200);
+}
+
+a{
+  color: rgb(210, 151, 255);
+}
